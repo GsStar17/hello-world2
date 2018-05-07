@@ -1,0 +1,11 @@
+<html>
+  <head>
+  function showMeldung(){
+    //Hier die Div id=meldung "füllen"
+    document.getElementById("meldung").innerHTML."Dies ist eine Meldung";
+  }
+  </head>
+  <body onClick="showMeldung()">
+    <div id="meldung"><div>
+  </body>
+</html>
